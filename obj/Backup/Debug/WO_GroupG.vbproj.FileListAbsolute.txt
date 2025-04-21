@@ -1,0 +1,10 @@
+C:\Program Files\Microsoft Forefront Identity Manager\2010\Synchronization Service\Extensions\WO_GroupG.dll
+C:\Program Files\Microsoft Forefront Identity Manager\2010\Synchronization Service\Extensions\WO_GroupG.pdb
+C:\ECMA2\WO_GroupG\obj\Debug\WO_GroupG.vbprojAssemblyReference.cache
+C:\ECMA2\WO_GroupG\obj\Debug\WO_GroupG.vbproj.CoreCompileInputs.cache
+C:\ECMA2\WO_GroupG\obj\Debug\WO_GroupG.dll
+C:\ECMA2\WO_GroupG\obj\Debug\WO_GroupG.pdb
+C:\ECMA2\WO_GroupG\Working Backup\obj\Debug\WO_GroupG.vbprojAssemblyReference.cache
+C:\ECMA2\WO_GroupG\Working Backup\obj\Debug\WO_GroupG.vbproj.CoreCompileInputs.cache
+C:\ECMA2\WO_GroupG\Working Backup\obj\Debug\WO_GroupG.dll
+C:\ECMA2\WO_GroupG\Working Backup\obj\Debug\WO_GroupG.pdb
