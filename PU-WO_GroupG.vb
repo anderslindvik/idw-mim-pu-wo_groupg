@@ -59,9 +59,9 @@ Public Class MAExtensionObject
                 '   Dim Foreningsnavn As String = csentry("FORENINGSNAVN").Value
                 '  If csentry("OBJEKT_TYPE").StringValue.Contains("Lokallagsleder") And csentry("OBJEKT_TYPE").Value IsNot "Ansatt" Then
                 ' Foreningsnavn = Foreningsnavn.Replace("Utdanningsforbundet", "")
-                'Foreningsnavn = Foreningsnavn.Replace("ø", "o")
-                'Foreningsnavn = Foreningsnavn.Replace("æ", "a")
-                'Foreningsnavn = Foreningsnavn.Replace("å", "a")
+                'Foreningsnavn = Foreningsnavn.Replace("Ã¸", "o")
+                'Foreningsnavn = Foreningsnavn.Replace("Ã¦", "a")
+                'Foreningsnavn = Foreningsnavn.Replace("Ã¥", "a")
                 'Foreningsnavn = Foreningsnavn.Replace("\s+", "")
                 'Foreningsnavn = Foreningsnavn.Replace(" ", "")
                 'Foreningsnavn = Foreningsnavn.Replace("(", "_")
@@ -122,9 +122,9 @@ Public Class MAExtensionObject
                 If csentry("FORENINGSNAVN").IsPresent And csentry("OBJEKT_TYPE").IsPresent And csentry("OBJEKT_TYPE").Value.Contains("Lokallagsleder") And csentry("OBJEKT_TYPE").Value <> "Ansatt" Then
                     Dim Foreningsnavn As String = csentry("FORENINGSNAVN").Value
                     Foreningsnavn = Foreningsnavn.Replace("Utdanningsforbundet", "")
-                    Foreningsnavn = Foreningsnavn.Replace("ø", "o")
-                    Foreningsnavn = Foreningsnavn.Replace("æ", "a")
-                    Foreningsnavn = Foreningsnavn.Replace("å", "a")
+                    Foreningsnavn = Foreningsnavn.Replace("Ã¸", "o")
+                    Foreningsnavn = Foreningsnavn.Replace("Ã¦", "a")
+                    Foreningsnavn = Foreningsnavn.Replace("Ã¥", "a")
                     Foreningsnavn = Foreningsnavn.Replace("\s+", "")
                     Foreningsnavn = Foreningsnavn.Replace(" ", "")
                     Foreningsnavn = Foreningsnavn.Replace("(", "_")
@@ -172,9 +172,9 @@ Public Class MAExtensionObject
                 If csentry("OBJEKT_TYPE").StringValue.Contains("Lokallagsleder") And csentry("OBJEKT_TYPE").Value IsNot "Ansatt" Then
                     Dim Foreningsnavn As String = csentry("FORENINGSNAVN").Value
                     Foreningsnavn = Foreningsnavn.Replace("Utdanningsforbundet", "")
-                    Foreningsnavn = Foreningsnavn.Replace("ø", "o")
-                    Foreningsnavn = Foreningsnavn.Replace("æ", "a")
-                    Foreningsnavn = Foreningsnavn.Replace("å", "a")
+                    Foreningsnavn = Foreningsnavn.Replace("Ã¸", "o")
+                    Foreningsnavn = Foreningsnavn.Replace("Ã¦", "a")
+                    Foreningsnavn = Foreningsnavn.Replace("Ã¥", "a")
                     Foreningsnavn = Foreningsnavn.Replace("\s+", "")
                     Foreningsnavn = Foreningsnavn.Replace(" ", "")
                     Foreningsnavn = Foreningsnavn.Replace("(", "_")
